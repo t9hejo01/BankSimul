@@ -1,1 +1,3 @@
 # BankSimul
+
+Opintoihin kuuluva pankkiautomaattiprojekti
